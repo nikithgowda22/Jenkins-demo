@@ -1,4 +1,4 @@
-def is_even(number):
+def is_even():
     return number % 2 == 0
 
 if __name__ == "__main__":
